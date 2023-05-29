@@ -1,4 +1,4 @@
-# Ponderada 3 - Processamento de imagens e detecção de objetos
+# Processamento de imagens e detecção de objetos
 
 Para realizar essa atividade, foram empregadas duas fases distintas: o treinamento do modelo utilizando a versão 8 do YOLO (You Only Look Once) e a implementação em tempo real do modelo, fazendo uso da câmera do notebook.
 
